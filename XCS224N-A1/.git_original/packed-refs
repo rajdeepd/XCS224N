@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+a8aebf56916e7e4068bb1b72d9b3fadf38d9df56 refs/remotes/origin/A1-quiz-2d-true-and-false-acceptance
+eea0aa38e889cd042eb57f7e62c7806821aa672d refs/remotes/origin/A1-updates
+ded7e4d8c600ea3c2c108a09e873d5ec76b61bc6 refs/remotes/origin/Rev_XCS224N_Sept2019-Mar2021
+90a6195d1ac0d90820254bef95e497b6a473fb1e refs/remotes/origin/fixes/A1
+e44df600f3799a8562fabf1ce38a0793572a4c68 refs/remotes/origin/gradescope-tutorial
+c9176cc8444d187e9f8f80f31c521facc7c8d7e4 refs/remotes/origin/insop/A1_grader
+278f179d0426941af63858f5b2fc50823c523416 refs/remotes/origin/insop/update_feb_2022
+c5b81a03f68825f4118d142f261dced579d3f3a8 refs/remotes/origin/master
+15c8b5a686501bee273882c2a76115b072e77dcc refs/remotes/origin/mc_to_online_assessment
+24cd7c5dba4fa6c68409226199d985c27bde5bdb refs/remotes/origin/num-corpus-words-init-sync
+757f6621f1da57b3fc6ca7d13de2d2171658e1b8 refs/remotes/origin/update-dates
+ded7e4d8c600ea3c2c108a09e873d5ec76b61bc6 refs/tags/Tag_Rev_XCS224N_Sept2019-Mar2021

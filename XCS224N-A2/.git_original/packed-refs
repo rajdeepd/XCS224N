@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+11385e47da1719e5bc76bd10a3bf593c6cc727ce refs/remotes/origin/Rev_XCS224N_Sept2019-Mar2021
+e462837aeb569c222a8b67e694889230aab7fdb3 refs/remotes/origin/fixes/A2
+4353ba5bd29c3b15bf1b0d577734feaf4f8edbb7 refs/remotes/origin/insop/A2_softmax_help
+a791bb40aef0199ffa4c2b656e2426035c71009a refs/remotes/origin/insop/fix_typo
+a069e6a7f1c1e5c3af809f54a95a9cdac9a968d1 refs/remotes/origin/insop/update_feb_2022
+b75f1024f57c726a12a209530597f737e98b44c5 refs/remotes/origin/master
+f9bc1ddc8b04431d21a54d3459339430d2621c27 refs/remotes/origin/mc_to_online_assessment
+e56d4a61bdc878745d32811e55ea439c62619f02 refs/remotes/origin/notational-fixes
+4e8476645b4aaa626e5169b22919042496f6b117 refs/remotes/origin/update-dates
+11385e47da1719e5bc76bd10a3bf593c6cc727ce refs/tags/Tag_Rev_XCS224N_Sept2019-Mar2021
